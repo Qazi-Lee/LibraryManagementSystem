@@ -1,0 +1,59 @@
+﻿  Account.cpp
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\DataBase.h(7,37): warning C4129: “ ”: 不可识别的字符转义序列
+  (编译源文件“Account.cpp”)
+  
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(403,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(560,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(583,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(585,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(721,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(756,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(828,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(847,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(870,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(872,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(1009,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(1043,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(1063,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(1220,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(1236,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(1332,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(1347,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(1371,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(1373,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(1516,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(1533,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(1535,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(1900,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(1986,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(2003,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(2005,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(2142,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(2164,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(2166,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(2291,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(2387,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(2407,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(2430,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(2432,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(2557,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(2630,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(2645,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(2813,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(2836,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(2838,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(2963,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(3051,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(3114,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(3137,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\Account.cpp(3139,22): warning C4018: “<”: 有符号/无符号不匹配
+  File.cpp
+  Login.cpp
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\DataBase.h(7,37): warning C4129: “ ”: 不可识别的字符转义序列
+  (编译源文件“Login.cpp”)
+  
+  main.cpp
+D:\study\学习\数据库大作业\LibraryManagementSystem\LibraryManagementSystem\DataBase.h(7,37): warning C4129: “ ”: 不可识别的字符转义序列
+  (编译源文件“main.cpp”)
+  
+  LibraryManagementSystem.vcxproj -> D:\study\学习\数据库大作业\LibraryManagementSystem\x64\Debug\LibraryManagementSystem.exe
